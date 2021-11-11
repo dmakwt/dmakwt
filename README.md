@@ -25,10 +25,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" ></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></code>
 <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express" width="48"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socketio" width="48"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express" width="55"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socketio" width="55"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Mongodb" width="58"/></code>
 <code><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="58"/></code>
 <code> <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="Redis" width="58"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/agenda/agenda@master/agenda.svg" alt="Agenda" width="25" height="25" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/agenda/agenda@master/agenda.svg" alt="Agenda" width="28" height="28" /></code>
