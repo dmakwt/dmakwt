@@ -6,7 +6,7 @@
 <!-- - 🌱 I’m currently learning <code><img height="20" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"></code> -->
 - 💬 Ask me about ... **[Dart, JS, Flutter, NodeJS]**
 - 📫 How to reach me: </br>
-      - **Twitter** <a href="https://twitter.com/DMA_Kw" target="_blank">**@DMA_Kw**</a>  
+      - **Twitter** <a href="https://twitter.com/dmakwt" target="_blank">**@DMA_Kw**</a>  
       - **Email**: <a href="mailto:dmakwt@gmail.com">**dmakwt@gmail.com**</a>
 
 <!-- # _Look for a remote job:_ <a href="https://www.linkedin.com/in/abdo-saed/" target="_blank">**Linkedin**</a>  -->
