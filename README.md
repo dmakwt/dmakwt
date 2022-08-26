@@ -26,9 +26,10 @@
 <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express" width="55"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="Socketio" width="55"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="GraphQL" width="55"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Mongodb" width="58"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mongodb" width="58"/></code>
 <code><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="58"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="58"/></code>
 <code> <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="Redis" width="58"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/agenda/agenda@master/agenda.svg" alt="Agenda" width="28" height="28" /></code>
