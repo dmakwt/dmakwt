@@ -33,4 +33,4 @@
 <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="58"/></code>
 <code><img src="https://vectorwiki.com/images/ScXaS__prisma.svg" alt="MySQL" width="58"/></code>
 <code> <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="Redis" width="58"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/agenda/agenda@master/agenda.svg" alt="Agenda" width="28" height="28" /></code>
+<!-- <code><img src="https://cdn.jsdelivr.net/gh/agenda/agenda@master/agenda.svg" alt="Agenda" width="28" height="28" /></code> -->
