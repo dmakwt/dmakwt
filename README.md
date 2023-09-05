@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dmakwt&label=Visitors&style=flat-square" alt="Visitors"/></p>
 
 <!-- - 🌱 I’m currently learning <code><img height="20" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"></code> -->
-- 💬 Ask me about ... **[Dart, JS, Flutter, NodeJS]**
+<!--- 💬 Ask me about ... **[Dart, JS, Flutter, NodeJS]** -->
 - 📫 How to reach me: </br>
       - **Twitter** <a href="https://twitter.com/dmakwt" target="_blank">**@dmakwt**</a>  
       - **Email**: <a href="mailto:dmakwt@gmail.com">**dmakwt@gmail.com**</a>
